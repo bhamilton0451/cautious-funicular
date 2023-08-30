@@ -1,0 +1,20 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.odd {
+  font-style: italic;
+  color: darkmagenta;
+  text-align: right;
+  margin-right: 10%;
+  background-image: url("https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/thumbnails/image/hubble_twhydrae_stsci-01gysy8vkfq5q3f7xmydpzdx10.png");
+}
+
+.even {
+  font-style: bold;
+  color: cyan;
+  text-align: left;
+  margin-left: 10%;
+  background-image: url("https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/thumbnails/image/hubble_runawayblackhole_stsci-01gx657xta7kn3a8rpsdxs9d07.png");
+}
